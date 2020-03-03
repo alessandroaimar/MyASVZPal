@@ -26,4 +26,8 @@ Run procedure:
 2) Ensure your computer time is in sync - even few seconds delay may mess up the enrollment
 3) Press start
 4) Go to ASVZ
+
+
+Notes:
+Current version works only for Windows as OS and ETH/UZH as universities
     
